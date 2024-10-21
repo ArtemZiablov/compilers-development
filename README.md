@@ -1,4 +1,4 @@
-# Compiler Development for Subject-Oriented Languages
+# Compilers Development for Subject-Oriented Languages
 
 Course at V.N. Karazin Kharkiv National University, Faculty of Mathematics and Informatics, specializing in Computer Science. 
 
